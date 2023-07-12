@@ -7,14 +7,18 @@
 
 
 .form{
-  text-align: center;
+  /* text-align: center;
   margin-top: 100px;
-  margin-left: 160px;
-    width: 555px;
-    height:630px;
+  margin-left: 160px; */
+    /* width: 555px; */
+    min-width: 603px;
     border-radius: 10px;
-    background-color:#98938f;
     padding: 20px;
+      backdrop-filter: blur(16px) saturate(180%);
+      -webkit-backdrop-filter: blur(16px) saturate(180%);
+      background-color: rgba(255, 255, 255, 0.75);
+      /* border: 1px solid rgba(209, 213, 219, 0.3); */
+  
 }
 
 input[type=text] , input[type=password] {
@@ -56,3 +60,4 @@ input[type=text] , input[type=password] {
   text-align: center;
 
 }
+
