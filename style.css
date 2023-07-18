@@ -61,3 +61,10 @@ input[type=text] , input[type=password] {
 
 }
 
+footer{
+  background-color:#F2F3F4;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
