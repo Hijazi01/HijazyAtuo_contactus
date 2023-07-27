@@ -41,10 +41,13 @@ Demo :
 
 ## Some screenshots of the Website
 
-ONE SCREEN :
+LAPTOP SCREEN :
 
 ![image1](img/Contactus.png)
 
+MOBILE SCREEN :
+
+![image2](img/mobile-screen.png)
 
 1. Adding a GIF from an external URL to markdown.
 
