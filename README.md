@@ -43,13 +43,10 @@ Demo :
 
 ONE SCREEN :
 
-![image](img/Contactus.png)
+![image1](img/Contactus.png)
 
 
 1. Adding a GIF from an external URL to markdown.
 
 ![color picker](https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif)
 
-2. Adding a local GIF file to markdown.
-
-![using a color picker](hover-over-color.gif)
