@@ -43,7 +43,7 @@ Demo :
 
 ONE SCREEN :
 
-![image](img/Contact us.png)
+![image](img/Contactus.png)
 
 
 1. Adding a GIF from an external URL to markdown.
